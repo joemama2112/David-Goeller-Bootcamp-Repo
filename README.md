@@ -1,5 +1,3 @@
-# bootcamp
-
 #challenge 1
 
 #link to excel workbook: https://1drv.ms/x/s!AnuLKXtn8llFgSldh8dNRTX90lX5
